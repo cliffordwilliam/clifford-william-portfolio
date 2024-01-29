@@ -5,7 +5,7 @@ const Page = () => {
       imageSrc: "mail.svg",
       h3: "Email",
       p: "ccliffordwilliam@gmail.com",
-      href: "ccliffordwilliam@gmail.com",
+      href: "mailto:ccliffordwilliam@gmail.com",
     },
     {
       imageSrc: "linkedin.svg",
