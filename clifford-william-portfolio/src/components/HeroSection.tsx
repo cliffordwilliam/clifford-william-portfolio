@@ -7,7 +7,7 @@ const HeroSection = () => {
       <div className="flex-1 p-8 basis-60">
         <h1 className="text-4xl font-bold mb-4">Clifford William</h1>
         <p className="text-lg mb-4">
-          Hello, I'm Clifford William, fullstack web developer based in
+          Hello, I am Clifford William, fullstack web developer based in
           Indonesia, Bandung.
         </p>
         <Link
