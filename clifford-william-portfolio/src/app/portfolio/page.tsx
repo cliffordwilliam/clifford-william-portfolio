@@ -18,7 +18,7 @@ const Page = () => {
       imageSrc: "/deli-thumbnail.webp",
       h3: "Wholesale Website",
       p: "A simple static website hosted on Github pages, this was made for my ex's business. I only used HTML and CSS, showcasing my deep understanding in semantic HTML and plain CSS to create complex responsive designs.",
-      href: "https://vanlifewithbry.com/",
+      href: "https://delifnb.com/",
     },
     {
       imageSrc: "/static-portfolio-thumbnail.webp",
